@@ -1,9 +1,9 @@
 
 ##Usage: 
-``
+```
   java -jar n-gram_pro.jar N input.fasta output.libsvm method label
-  Example: java -jar n-gram_pro.jar 2 input.fasta output.libsvm 1 1
-``
+  ## Example: java -jar n-gram_pro.jar 2 input.fasta output.libsvm 1 1
+```
 
 where ``N`` is N-gram param; ``method`` is 1 or 2; ``label`` is your libsvm label, such as 1 or -1
 
